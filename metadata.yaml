@@ -1,0 +1,32 @@
+_repo: The-Trail-of-the-Sandhill-Stag_32319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32319-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton, Wolf
+    - Thompson-Seton, Ernest
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Deer -- Juvenile fiction'
+title: The Trail of the Sandhill Stag
+url: http://www.gutenberg.org/ebooks/32319
